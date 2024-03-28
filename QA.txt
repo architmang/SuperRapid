@@ -1,0 +1,14 @@
+[
+    {
+        "description": "Is the person in the image standup?",
+        "value": "standup"
+    },
+    {
+        "description": "Can you see the hands of the person?",
+        "value": "hands"
+    },
+    {
+        "description": "Is it inside or outside?",
+        "value": "inside"
+    }
+]
