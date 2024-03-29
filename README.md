@@ -13,11 +13,11 @@ Gradio is leveraged to construct an intuitive web-based interface where users ca
 Through Gradio's simple API, the interface components such as image upload and text input are effortlessly defined and connected to the underlying functionality.
 
 <p align="center">
-    <img width="800" height="400" src="sample_img.jpg" alt="Material Bread logo">
+    <img width="800" height="400" src="extras/pic1.jpg" alt="Material Bread logo">
 </p>
 
 <p align="center">
-    <img width="800" height="400" src="sample_img.jpg" alt="Material Bread logo">
+    <img width="800" height="400" src="extras/pic2.jpg" alt="Material Bread logo">
 </p>
 
 
